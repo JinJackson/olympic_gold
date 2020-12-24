@@ -1,0 +1,7 @@
+# result 存放了最原始的MatchModel训练结果
+
+#result_LCQMC 存放了MatchModel第一轮在LCQMC数据集上finetune的结果
+
+#result_Olympic 存放了MatchModel第二轮在冬奥数据集（jzl建立QAPairs）finetune的结果
+
+#result_Olympic 存放了MatchModelwithTag 直接在冬奥数据集（jzl建立QAPairs）finetune结果
