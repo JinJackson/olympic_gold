@@ -1,0 +1,2 @@
+torch == 1.6 + cu92
+transformers == 3.3
